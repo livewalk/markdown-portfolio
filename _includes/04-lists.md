@@ -1,8 +1,13 @@
  :heart:
+ 
  :+1:
+ 
  :smile:
+ 
  :sparkles:
+ 
  :tada:
+ 
  :palm_tree:
  
 1. Item 1
